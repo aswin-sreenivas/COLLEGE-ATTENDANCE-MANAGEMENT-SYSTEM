@@ -186,5 +186,4 @@ This project is developed for educational purposes.
 **Aswin Sreenivas**
 
 Diploma in Computer Engineering
-
-GitHub: https://github.com/Aswin-Sreenivas
+https://github.com/aswin-sreenivas
